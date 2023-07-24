@@ -1,0 +1,15 @@
+/home/james/Repos/Euler/35/bin/Debug/net7.0/35
+/home/james/Repos/Euler/35/bin/Debug/net7.0/35.deps.json
+/home/james/Repos/Euler/35/bin/Debug/net7.0/35.runtimeconfig.json
+/home/james/Repos/Euler/35/bin/Debug/net7.0/35.dll
+/home/james/Repos/Euler/35/bin/Debug/net7.0/35.pdb
+/home/james/Repos/Euler/35/obj/Debug/net7.0/35.csproj.AssemblyReference.cache
+/home/james/Repos/Euler/35/obj/Debug/net7.0/35.GeneratedMSBuildEditorConfig.editorconfig
+/home/james/Repos/Euler/35/obj/Debug/net7.0/35.AssemblyInfoInputs.cache
+/home/james/Repos/Euler/35/obj/Debug/net7.0/35.AssemblyInfo.cs
+/home/james/Repos/Euler/35/obj/Debug/net7.0/35.csproj.CoreCompileInputs.cache
+/home/james/Repos/Euler/35/obj/Debug/net7.0/35.dll
+/home/james/Repos/Euler/35/obj/Debug/net7.0/refint/35.dll
+/home/james/Repos/Euler/35/obj/Debug/net7.0/35.pdb
+/home/james/Repos/Euler/35/obj/Debug/net7.0/35.genruntimeconfig.cache
+/home/james/Repos/Euler/35/obj/Debug/net7.0/ref/35.dll
